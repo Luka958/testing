@@ -1,0 +1,5 @@
+[
+  {"id":"125235", "name":"Ivan", "surname":"Ivic", "position":"manager"},
+  {"id":"125246","name":"Marko","surname":"Maric", "position":"worker" },
+  {"id":"125258","name":"Pero","surname":"Peric", "position":"worker" }
+]
